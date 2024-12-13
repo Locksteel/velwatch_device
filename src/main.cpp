@@ -14,7 +14,7 @@
 
 
 // NOTE: Eventually will have ability to networks on the fly, currently out of scope
-char ssid[50]; // SSID and password removed for security
+char ssid[50];
 char pass[50];
 int runCount = 0;
 
